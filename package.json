@@ -1,0 +1,26 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe web app",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuray90/forkify.git"
+  },
+  "author": "Daniel Ionut Petrut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuray90/forkify/issues"
+  },
+  "homepage": "https://github.com/samuray90/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {}
+}
